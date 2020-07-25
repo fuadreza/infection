@@ -231,7 +231,7 @@ li {
     </g>
 </svg>
 <div class="message-box">
-  <h1>Welcome to this web</h1>
+  <h1>Welcome to Infection's blog</h1>
   <p>take a look</p>
   <div class="buttons-con">
     <div class="action-link-wrap">
