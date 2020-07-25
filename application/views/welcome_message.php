@@ -231,8 +231,8 @@ li {
     </g>
 </svg>
 <div class="message-box">
-  <h1>Welkam tu may webset</h1>
-  <p>doain dah pokoknya biar cepetan sidang awokwokwokwk</p>
+  <h1>SELAMAT DATANG DI WEBSITE KAMI</h1>
+  <p>semoga anda bahagia hehehe</p>
   <div class="buttons-con">
     <div class="action-link-wrap">
       <!-- <a href="" class="link-button">Go to Home Page</a> -->
